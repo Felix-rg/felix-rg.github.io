@@ -21,3 +21,7 @@
 section, footer {
     padding: 20px 0;
 }
+
+footer a:hover{
+    text-decoration: underline;
+}
