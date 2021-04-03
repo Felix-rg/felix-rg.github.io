@@ -25,3 +25,7 @@ section, footer {
 footer a:hover{
     text-decoration: underline;
 }
+
+.portfolio .row .img1{
+    margin: 0 auto;
+}
